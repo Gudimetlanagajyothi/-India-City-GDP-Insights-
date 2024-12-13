@@ -1,3 +1,5 @@
+To access this data firstly we need to login the page.secondly dashboards will display.
+
 Power BI Dashboards: City Data Analysis (2011-2024):
 
 This repository contains Power BI dashboards that analyze and visualize various economic and sectoral indicators for 30 cities across the years 2011 to 2024.
